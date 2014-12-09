@@ -1,0 +1,68 @@
+Process,Manufacturer,Model,Polymer,Feed,Type,Flux,MWCO,Rejection
+RO,Toray,70AC,Polyamide,Brackish,"Low Energy, High Rejection, Cl Resistant",30.7/225,RO,99.78% NaCl
+RO,Toray,82V,Polyamide,Sea,"Low Energy, High Rejection",27/798,RO,99.73% NaCl
+RO,DOW,SW30HR,Polyamide,Sea,High Rejection,17-24/800,RO,99.60% NaCl
+RO,DOW,BW30,Polyamide,Brackish,Standard,26/255,RO,99.50% NaCl
+RO,DOW,BW30FR,Polyamide,Brackish,Fouling Resistant,26/255,RO,99.50% NaCl
+RO,DOW,SW30XLE,Polyamide,Sea,Extra Low Energy,23-29/800,RO,99.50% NaCl
+RO,GE,AD,Polyamide,Sea,High Rejection,15/800,RO,99.50% NaCl
+RO,GE,AG,Polyamide,Brackish,Reactive Si Removal,26/225,RO,99.50% NaCl
+RO,TriSep,ACM1,Polyamide,Brackish,Tight,25/225,RO,99.50% NaCl
+RO,TriSep,ACM2,Polyamide,Brackish,Standard,30/225,RO,99.50% NaCl
+RO,TriSep,X201,Polyamide-urea,"Industrial, Wastewater",Fouling Resistant,30/225,RO,99.50% NaCl
+RO,Toray,72U,Polyamide,Brackish,Extra Low Pressure,29.5/109,RO,99.40% NaCl
+RO,TriSep,ACM3,Polyamide,Brackish,Low Pressure,35/225,RO,99.30% NaCl
+RO,TriSep,ACM4,Polyamide,Brackish,"High Flux, Low Pressure",30/150,RO,99.20% NaCl
+RO,DOW,BW30LE,Polyamide,Brackish,Low Energy,37-46/225,RO,99.00% NaCl
+RO,GE,AK,Polyamide,Brackish,Low Energy,26/115,RO,99.00% NaCl
+RO,Toray,70HA,Polyamide,Brackish,Extra Low Energy,23.3/73,RO,99.00% NaCl
+RO,GE,SE,TF (Thin Film),"Industrial, Wastewater","High Pressure, Cl Resistant",22/425,RO,98.90% NaCl
+RO,DOW,XLE,Polyamide,Brackish,Extra Low Energy,33-41/125,RO,98.70% NaCl
+RO,TriSep,ACM5,Polyamide,Brackish,"High Flux, Low Pressure",30/110,RO,98.50% NaCl
+RO,GE,SG,TF (Thin Film),"Industrial, Wastewater",Cl Resistant,22/225,RO,98.20% NaCl
+RO,GE,CE,Cellulose Acetate,Brackish,Cl Resistant,23.5/420,RO,97.00% NaCl
+RO,TriSep,SB50,Cellulose acetate blend,"Industrial, Wastewater",Cl Resistant,30/420,RO,95.00% NaCl
+NF,TriSep,SB90,CA blend,"Foods, Beverages",Cl Resistant,30/225,150,97/85% MgSO4/NaCl
+NF,TriSep,TS80,Polyamide,"Industrial, Foods, Wastewater",Softening,20/110,150,99/80-90% MgSO4/NaCl
+NF,TriSep,TS40,Polypiperazine amide,"Industrial, Foods, Wastewater",Process,20/110,200,99/40-60% MgSO4/NaCl
+NF,GE,DK,TF (Thin Film),"Industrial, Foods",High Rejection,22/100,150-300,96% MgSO4
+NF,GE,DL,TF (Thin Film),"Industrial, Foods","Low Energy, Low Pressure",28/220,150-300,98% MgSO4
+NF,GE,HL,TF (Thin Film),"Industrial, Wastewater",Softening,39/100,150-300,98% MgSO4
+NF,Synder ,NFX,Polyamide TFC,"Industrial, Foods, Wastewater","Softening, High Rejection",20-25/110,150-300,99/40% MgSO4/NaCl
+NF,DOW,NF,Polyamide,"Foods, Beverages",High Rejection,26.5-39.5/130,200-400,99% MgSO4
+NF,DOW,NF270,Polyamide,"Surface, Ground","Organics Removal, Softening",72.0-98.0/130,200-400,99.2% MgSO4
+NF,DOW,NF90,Polyamide,"Industrial, Wastewater","Low Energy, Low Pressure",46.0-60.0/130,200-400,99% MgSO4
+NF,Synder ,NFW,Polyamide TFC,"Industrial, Foods, Wastewater",Softening,45-50/110,300-500,97/20% MgSO4/NaCl
+NF,TriSep,XN45,Polypiperazine amide,"Industrial, Foods, Wastewater",Process,35/110,500,95/10-30% MgSO4/NaCl
+UF,GE,GE,Composite polymide,"Surface, Chemical","Pre-Treatment, Color Reduction, Purification",18/400,"1,000",-
+UF,Synder ,XT,Polyethersulfone,Industrial,"Antibiotics, Color Removal",75 -80/50,"1,000",-
+NF,GE,CK,Cellulose Acetate,"Industrial, Wastewater","Cl Resistant, Softening",28/220,"2,000",94% MgSO4
+UF,GE,GH,TF (Thin Film),"Surface, Chemical","Pre-Treatment, Color Reduction, Purification",20/150,"2,000",-
+UF,GE,GK,TF (Thin Film),"Surface, Chemical","Pre-Treatment, Color Reduction, Purification",17/75,"3,000",-
+UF,Synder ,VT,Polyethersulfone,Industrial,"Antibiotics, Pharmaceutical",110-127/50,"3,000",-
+UF,TriSep,UA60,Polypiperazine amide,Process,"""Tight""",35/110,"3,500",70% MgSO4
+UF,GE,PT,Polyethersulfone,"Process, Ultrapure","Pre-Treatment, Post-Treatment",90/50,"5,000",-
+UF,Synder ,MT,Polyethersulfone,Industrial,"Protein, Enzyme",120-147/50,"5,000",-
+UF,GE,PW,Polyethersulfone,"Process, Ultrapure","Pre-Treatment, Post-Treatment",85/30,"10,000",-
+UF,Synder ,ST,Polyethersulfone,Industrial,Beverage Clarification,130-167/50,"10,000",-
+UF,TriSep,UE10,PES,Process,"Purification, Proteins",50/20,"10,000",95% Cytochrome-C
+UF,Synder ,MK,Polyethersulfone,Industrial,"Dairy, Clarification",181-193/50,"30,000",-
+UF,Synder ,V3,PVDF w/+ surface charge,"Industrial, Wastewater",Alkalines,192-207/50,"30,000",-
+UF,GE,MW,Ultrafilic,"Oil, Water",Hydrophilic,176/20,"50,000",-
+UF,Synder ,BN,PVDF,Industrial,"Brine, Protein",200-214/50,"50,000",-
+UF,Synder ,V4,PVDF w/+ surface charge,"Industrial, Wastewater",Fouling Resistant,157-168/50,"70,000",-
+UF,Synder ,BY,PVDF,Industrial,"Corn Wet Milling, Particle",162-173/30,"100,000",-
+UF,Synder ,LY,Polyethersulfone,Industrial,"Corn Wet Milling, Particle",270-289/50,"100,000",-
+UF,TriSep,UE50,PES,Process,"""Open""",100/20,"100,000",90% Dextran
+UF,Synder ,V5,PVDF w/+ surface charge,"Industrial, Wastewater",Fouling Resistant,175-186/30,"200,000",-
+UF,Synder ,BX,PVDF,Industrial,"Corn Wet Milling, Particle",181-193/30,"250,000",-
+UF,Synder ,LX,Polyethersulfone,Industrial,"Corn Wet Milling, Particle",236-252/30,"300,000",-
+UF,Synder ,A6,PVDF,Industrial,"Anodic Paint, Microbial",191-214/30,"500,000",-
+UF,Synder ,V6,PVDF w/+ surface charge,"Industrial, Wastewater",Cathodic Paint,182-196/30,"500,000",-
+MF,Synder ,FR,PVDF,"Industrial, Dairy","""Tight"", Fat and Microbial Removal, Protein Fractionation",233-249/30,"800,000",-
+UF,Synder ,V7,PVDF w/+ surface charge,"Industrial, Wastewater",Laundry Waste,208-232/30,"800,000",-
+MF,Synder ,V0.1,PVDF,"Industrial, Dairy","""Intermediate"", Fat and Microbial Removal, Protein Fractionation",237-254/20,0.10,-
+MF,Synder ,V0.2,PVDF,"Industrial, Dairy","""Open"", Fat and Microbial Removal, Protein Fractionation",245-280/20,0.20,-
+MF,Toray,TM10,PVDF,Industrial,Large Organics Concentration,50/10,0.20,-
+NF,Synder ,NFG,Polyamide TFC,"Industrial, Foods, Wastewater","Softening, High Flux",55-60/110,0.20,50/10% MgSO4/NaCl
+MF,GE,JX,PVDF,"Industrial, Process",Stream Clarification,130/30,0.30,-
