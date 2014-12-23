@@ -1,15 +1,18 @@
 membrane-selector
-=================
+------------------
+
 A styled Shiny/gVis datatable for the selection of flat sheet membrane filters.
 
 * View app: https://mpoorboy.shinyapps.io/FS_Selector/
 
 global.R:
-      #dependencies
-        library(googleVis)
-        library(shiny)
-        library(ggplot2)
-      #get data
+
+    #dependencies
+      library(googleVis)
+      library(shiny)
+      library(ggplot2)
+      
+    #get data
         fs <- read.csv("FlatSheets.csv", header=TRUE)
 
 server.R
@@ -19,9 +22,11 @@ server.R
         myOptions <- reactive({list(chartid = "mytable", cssClassNames = 
          "{headerRow: 'myTableHeadrow', tableRow: 'myTablerow'}", width=1200, height=500)
                 })
+                
     #table object
           output$table <- renderGvis({  
               gvisTable(options=myOptions(), {
+              
     #selectInput object
                 data <- fs
                   if (input$MWCO != "All"){
@@ -43,6 +48,7 @@ ui.R
           list(img(src='scicon.jpg', width="30", height="30", 
           style="padding-right:10px;",'Flat Sheet Selector'))
                  ))),
+                 
     #dropdowns
         tabPanel("Table", fluidRow(
                 column(3, selectInput("MWCO", "MWCO:",
@@ -55,6 +61,7 @@ ui.R
                 unique(as.character(fs$Feed))
                  )))
                  )),
+                 
     #table style
           fluidRow(
             htmlOutput("table"),tags$head(tags$style(
