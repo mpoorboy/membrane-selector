@@ -1,7 +1,6 @@
-[
-  {
+[  {
     "Process":"RO",
-    "Manufacturer":"Toray",
+    "Brand":"Toray",
     "Model":"70AC",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -12,7 +11,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"Toray",
+    "Brand":"Toray",
     "Model":"82V",
     "Polymer":"Polyamide",
     "Feed":"Sea",
@@ -23,7 +22,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"SW30HR",
     "Polymer":"Polyamide",
     "Feed":"Sea",
@@ -34,7 +33,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"BW30",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -45,7 +44,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"BW30FR",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -56,7 +55,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"SW30XLE",
     "Polymer":"Polyamide",
     "Feed":"Sea",
@@ -67,7 +66,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"AD",
     "Polymer":"Polyamide",
     "Feed":"Sea",
@@ -78,7 +77,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"AG",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -89,7 +88,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"ACM1",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -100,7 +99,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"ACM2",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -111,7 +110,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"X201",
     "Polymer":"Polyamide-urea",
     "Feed":"Industrial, Wastewater",
@@ -122,7 +121,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"Toray",
+    "Brand":"Toray",
     "Model":"72U",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -133,7 +132,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"ACM3",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -144,7 +143,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"ACM4",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -155,7 +154,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"BW30LE",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -166,7 +165,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"AK",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -177,7 +176,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"Toray",
+    "Brand":"Toray",
     "Model":"70HA",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -188,9 +187,9 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"SE",
-    "Polymer":"TF (Thin Film)",
+    "Polymer":"Thin Film",
     "Feed":"Industrial, Wastewater",
     "Type":"High Pressure, Cl Resistant",
     "Flux":"22/425",
@@ -199,7 +198,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"XLE",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -210,7 +209,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"ACM5",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
@@ -221,9 +220,9 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"SG",
-    "Polymer":"TF (Thin Film)",
+    "Polymer":"Thin Film",
     "Feed":"Industrial, Wastewater",
     "Type":"Cl Resistant",
     "Flux":"22/225",
@@ -232,7 +231,7 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"CE",
     "Polymer":"Cellulose Acetate",
     "Feed":"Brackish",
@@ -243,9 +242,9 @@
   },
   {
     "Process":"RO",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"SB50",
-    "Polymer":"Cellulose acetate blend",
+    "Polymer":"CA Blend",
     "Feed":"Industrial, Wastewater",
     "Type":"Cl Resistant",
     "Flux":"30/420",
@@ -254,9 +253,9 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"SB90",
-    "Polymer":"CA blend",
+    "Polymer":"CA Blend",
     "Feed":"Foods, Beverages",
     "Type":"Cl Resistant",
     "Flux":"30/225",
@@ -265,31 +264,31 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"TS80",
     "Polymer":"Polyamide",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Softening",
     "Flux":"20/110",
     "MWCO":"150",
-    "Rejection":"99/80-90% MgSO4/NaCl"
+    "Rejection":"99/80NA90% MgSO4/NaCl"
   },
   {
     "Process":"NF",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"TS40",
-    "Polymer":"Polypiperazine amide",
+    "Polymer":"Polypiperazine-amide",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Process",
     "Flux":"20/110",
     "MWCO":"200",
-    "Rejection":"99/40-60% MgSO4/NaCl"
+    "Rejection":"99/40% MgSO4/NaCl"
   },
   {
     "Process":"NF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"DK",
-    "Polymer":"TF (Thin Film)",
+    "Polymer":"Thin Film",
     "Feed":"Industrial, Foods",
     "Type":"High Rejection",
     "Flux":"22/100",
@@ -298,9 +297,9 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"DL",
-    "Polymer":"TF (Thin Film)",
+    "Polymer":"Thin Film",
     "Feed":"Industrial, Foods",
     "Type":"Low Energy, Low Pressure",
     "Flux":"28/220",
@@ -309,9 +308,9 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"HL",
-    "Polymer":"TF (Thin Film)",
+    "Polymer":"Thin Film",
     "Feed":"Industrial, Wastewater",
     "Type":"Softening",
     "Flux":"39/100",
@@ -320,7 +319,7 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"NFX",
     "Polymer":"Polyamide TFC",
     "Feed":"Industrial, Foods, Wastewater",
@@ -331,7 +330,7 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"NF",
     "Polymer":"Polyamide",
     "Feed":"Foods, Beverages",
@@ -342,7 +341,7 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"NF270",
     "Polymer":"Polyamide",
     "Feed":"Surface, Ground",
@@ -353,7 +352,7 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"DOW",
+    "Brand":"DOW",
     "Model":"NF90",
     "Polymer":"Polyamide",
     "Feed":"Industrial, Wastewater",
@@ -364,7 +363,7 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"NFW",
     "Polymer":"Polyamide TFC",
     "Feed":"Industrial, Foods, Wastewater",
@@ -375,365 +374,364 @@
   },
   {
     "Process":"NF",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"XN45",
-    "Polymer":"Polypiperazine amide",
+    "Polymer":"Polypiperazine-amide",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Process",
     "Flux":"35/110",
     "MWCO":"500",
-    "Rejection":"95/10-30% MgSO4/NaCl"
+    "Rejection":"95/10% MgSO4/NaCl"
   },
   {
     "Process":"UF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"GE",
     "Polymer":"Composite polymide",
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
     "Flux":"18/400",
-    "MWCO":"1,000",
-    "Rejection":"-"
+    "MWCO":"1000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"XT",
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Antibiotics, Color Removal",
     "Flux":"75 -80/50",
-    "MWCO":"1,000",
-    "Rejection":"-"
+    "MWCO":"1000",
+    "Rejection":"NA"
   },
   {
     "Process":"NF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"CK",
     "Polymer":"Cellulose Acetate",
     "Feed":"Industrial, Wastewater",
     "Type":"Cl Resistant, Softening",
     "Flux":"28/220",
-    "MWCO":"2,000",
+    "MWCO":"2000",
     "Rejection":"94% MgSO4"
   },
   {
     "Process":"UF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"GH",
-    "Polymer":"TF (Thin Film)",
+    "Polymer":"Thin Film",
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
     "Flux":"20/150",
-    "MWCO":"2,000",
-    "Rejection":"-"
+    "MWCO":"2000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"GK",
-    "Polymer":"TF (Thin Film)",
+    "Polymer":"Thin Film",
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
     "Flux":"17/75",
-    "MWCO":"3,000",
-    "Rejection":"-"
+    "MWCO":"3000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"VT",
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Antibiotics, Pharmaceutical",
     "Flux":"110-127/50",
-    "MWCO":"3,000",
-    "Rejection":"-"
+    "MWCO":"3000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"UA60",
-    "Polymer":"Polypiperazine amide",
+    "Polymer":"Polypiperazine-amide",
     "Feed":"Process",
-    "Type":"\"Tight\"",
+    "Type":"Tight",
     "Flux":"35/110",
-    "MWCO":"3,500",
+    "MWCO":"3500",
     "Rejection":"70% MgSO4"
   },
   {
     "Process":"UF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"PT",
     "Polymer":"Polyethersulfone",
     "Feed":"Process, Ultrapure",
     "Type":"Pre-Treatment, Post-Treatment",
     "Flux":"90/50",
-    "MWCO":"5,000",
-    "Rejection":"-"
+    "MWCO":"5000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"MT",
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Protein, Enzyme",
     "Flux":"120-147/50",
-    "MWCO":"5,000",
-    "Rejection":"-"
+    "MWCO":"5000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"PW",
     "Polymer":"Polyethersulfone",
     "Feed":"Process, Ultrapure",
     "Type":"Pre-Treatment, Post-Treatment",
     "Flux":"85/30",
-    "MWCO":"10,000",
-    "Rejection":"-"
+    "MWCO":"10000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"ST",
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Beverage Clarification",
     "Flux":"130-167/50",
-    "MWCO":"10,000",
-    "Rejection":"-"
+    "MWCO":"10000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"UE10",
     "Polymer":"PES",
     "Feed":"Process",
     "Type":"Purification, Proteins",
     "Flux":"50/20",
-    "MWCO":"10,000",
+    "MWCO":"10000",
     "Rejection":"95% Cytochrome-C"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"MK",
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Dairy, Clarification",
     "Flux":"181-193/50",
-    "MWCO":"30,000",
-    "Rejection":"-"
+    "MWCO":"30000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"V3",
-    "Polymer":"PVDF w/+ surface charge",
+    "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Alkalines",
     "Flux":"192-207/50",
-    "MWCO":"30,000",
-    "Rejection":"-"
+    "MWCO":"30000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"MW",
     "Polymer":"Ultrafilic",
     "Feed":"Oil, Water",
     "Type":"Hydrophilic",
     "Flux":"176/20",
-    "MWCO":"50,000",
-    "Rejection":"-"
+    "MWCO":"50000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"BN",
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Brine, Protein",
     "Flux":"200-214/50",
-    "MWCO":"50,000",
-    "Rejection":"-"
+    "MWCO":"50000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"V4",
-    "Polymer":"PVDF w/+ surface charge",
+    "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Fouling Resistant",
     "Flux":"157-168/50",
-    "MWCO":"70,000",
-    "Rejection":"-"
+    "MWCO":"70000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"BY",
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
     "Flux":"162-173/30",
-    "MWCO":"100,000",
-    "Rejection":"-"
+    "MWCO":"100000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"LY",
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
     "Flux":"270-289/50",
-    "MWCO":"100,000",
-    "Rejection":"-"
+    "MWCO":"100000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"UE50",
     "Polymer":"PES",
     "Feed":"Process",
-    "Type":"\"Open\"",
+    "Type":"Open",
     "Flux":"100/20",
-    "MWCO":"100,000",
+    "MWCO":"100000",
     "Rejection":"90% Dextran"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"V5",
-    "Polymer":"PVDF w/+ surface charge",
+    "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Fouling Resistant",
     "Flux":"175-186/30",
-    "MWCO":"200,000",
-    "Rejection":"-"
+    "MWCO":"200000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"BX",
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
     "Flux":"181-193/30",
-    "MWCO":"250,000",
-    "Rejection":"-"
+    "MWCO":"250000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"LX",
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
     "Flux":"236-252/30",
-    "MWCO":"300,000",
-    "Rejection":"-"
+    "MWCO":"300000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"A6",
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Anodic Paint, Microbial",
     "Flux":"191-214/30",
-    "MWCO":"500,000",
-    "Rejection":"-"
+    "MWCO":"500000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"V6",
-    "Polymer":"PVDF w/+ surface charge",
+    "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Cathodic Paint",
     "Flux":"182-196/30",
-    "MWCO":"500,000",
-    "Rejection":"-"
+    "MWCO":"500000",
+    "Rejection":"NA"
   },
   {
     "Process":"MF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"FR",
     "Polymer":"PVDF",
     "Feed":"Industrial, Dairy",
-    "Type":"\"Tight\", Fat and Microbial Removal, Protein Fractionation",
+    "Type":"Tight, Fat and Microbial Removal, Protein Fractionation",
     "Flux":"233-249/30",
-    "MWCO":"800,000",
-    "Rejection":"-"
+    "MWCO":"800000",
+    "Rejection":"NA"
   },
   {
     "Process":"UF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"V7",
-    "Polymer":"PVDF w/+ surface charge",
+    "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Laundry Waste",
     "Flux":"208-232/30",
-    "MWCO":"800,000",
-    "Rejection":"-"
+    "MWCO":"800000",
+    "Rejection":"NA"
   },
   {
     "Process":"MF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"V0.1",
     "Polymer":"PVDF",
     "Feed":"Industrial, Dairy",
-    "Type":"\"Intermediate\", Fat and Microbial Removal, Protein Fractionation",
+    "Type":"Intermediate, Fat and Microbial Removal, Protein Fractionation",
     "Flux":"237-254/20",
-    "MWCO":"0.10",
-    "Rejection":"-"
+    "MWCO":"0.1",
+    "Rejection":"NA"
   },
   {
     "Process":"MF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"V0.2",
     "Polymer":"PVDF",
     "Feed":"Industrial, Dairy",
-    "Type":"\"Open\", Fat and Microbial Removal, Protein Fractionation",
+    "Type":"Open, Fat and Microbial Removal, Protein Fractionation",
     "Flux":"245-280/20",
-    "MWCO":"0.20",
-    "Rejection":"-"
+    "MWCO":"0.2",
+    "Rejection":"NA"
   },
   {
     "Process":"MF",
-    "Manufacturer":"TriSep",
+    "Brand":"TriSep",
     "Model":"TM10",
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Large Organics Concentration",
     "Flux":"50/10",
-    "MWCO":"0.20",
-    "Rejection":"-"
+    "MWCO":"0.2",
+    "Rejection":"NA"
   },
   {
     "Process":"NF",
-    "Manufacturer":"Synder ",
+    "Brand":"Synder",
     "Model":"NFG",
     "Polymer":"Polyamide TFC",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Softening, High Flux",
     "Flux":"55-60/110",
-    "MWCO":"0.20",
+    "MWCO":"0.2",
     "Rejection":"50/10% MgSO4/NaCl"
   },
   {
     "Process":"MF",
-    "Manufacturer":"GE",
+    "Brand":"GE",
     "Model":"JX",
     "Polymer":"PVDF",
     "Feed":"Industrial, Process",
     "Type":"Stream Clarification",
     "Flux":"130/30",
-    "MWCO":"0.30",
-    "Rejection":"-"
-  }
-]
+    "MWCO":"0.3",
+    "Rejection":"NA"
+  }]
