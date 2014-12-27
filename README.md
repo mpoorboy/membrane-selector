@@ -11,23 +11,24 @@ global.R:
       library(googleVis)
       library(shiny)
       library(ggplot2)
+      library(jsonlite)
       
-    #get data
+     #get data
         fs <- read.csv("FlatSheets.csv", header=TRUE)
 
 server.R
 
-    shinyServer(function(input, output) {
-    #style function
+     shinyServer(function(input, output) {
+     #style function
         myOptions <- reactive({list(chartid = "mytable", cssClassNames = 
          "{headerRow: 'myTableHeadrow', tableRow: 'myTablerow'}", width=1200, height=500)
                 })
                 
-    #table object
+     #table object
           output$table <- renderGvis({  
               gvisTable(options=myOptions(), {
               
-    #selectInput object
+     #selectInput object
                 data <- fs
                   if (input$MWCO != "All"){
                         data <- data[data$MWCO == input$MWCO,]}
@@ -41,15 +42,15 @@ server.R
 
 ui.R
 
-    shinyUI(fluidPage(navbarPage(
-    #navbar style
+     shinyUI(fluidPage(navbarPage(
+     #navbar style
           div(class="navbar navbar-static-top navbar", 
           div(class = 'navbar-inner', span(class ='brand pull-left',
           list(img(src='scicon.jpg', width="30", height="30", 
           style="padding-right:10px;",'Flat Sheet Selector'))
                  ))),
                  
-    #dropdowns
+     #dropdowns
         tabPanel("Table", fluidRow(
                 column(3, selectInput("MWCO", "MWCO:",
                 c("All", unique(as.character(fs$MWCO))
@@ -62,7 +63,7 @@ ui.R
                  )))
                  )),
                  
-    #table style
+     #table style
           fluidRow(
             htmlOutput("table"),tags$head(tags$style(
             type="text/css", ".myTableHeadrow {padding:1px; text-shadow: 1px 1px 1px #000000;
