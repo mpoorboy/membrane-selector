@@ -7,10 +7,11 @@ A styled Shiny/gVis datatable for the selection of flat sheet membrane filters.
 
 global.R:
 
-    #dependencies
+     #package dependencies
       library(googleVis)
       library(shiny)
       library(ggplot2)
+      library(httr)
       library(jsonlite)
       
      #get data
