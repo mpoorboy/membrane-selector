@@ -5,7 +5,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Low Energy, High Rejection, Cl Resistant",
-    "Flux":"30.7/225",
+    "Flux (GFD/psi)":"30.7/225",
     "MWCO":"RO",
     "Rejection":"99.78% NaCl"
   },
@@ -16,7 +16,7 @@
     "Polymer":"Polyamide",
     "Feed":"Sea",
     "Type":"Low Energy, High Rejection",
-    "Flux":"27/798",
+    "Flux (GFD/psi)":"27/798",
     "MWCO":"RO",
     "Rejection":"99.73% NaCl"
   },
@@ -27,7 +27,7 @@
     "Polymer":"Polyamide",
     "Feed":"Sea",
     "Type":"High Rejection",
-    "Flux":"17-24/800",
+    "Flux (GFD/psi)":"17-24/800",
     "MWCO":"RO",
     "Rejection":"99.60% NaCl"
   },
@@ -38,7 +38,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Standard",
-    "Flux":"26/255",
+    "Flux (GFD/psi)":"26/255",
     "MWCO":"RO",
     "Rejection":"99.50% NaCl"
   },
@@ -49,7 +49,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Fouling Resistant",
-    "Flux":"26/255",
+    "Flux (GFD/psi)":"26/255",
     "MWCO":"RO",
     "Rejection":"99.50% NaCl"
   },
@@ -60,7 +60,7 @@
     "Polymer":"Polyamide",
     "Feed":"Sea",
     "Type":"Extra Low Energy",
-    "Flux":"23-29/800",
+    "Flux (GFD/psi)":"23-29/800",
     "MWCO":"RO",
     "Rejection":"99.50% NaCl"
   },
@@ -71,7 +71,7 @@
     "Polymer":"Polyamide",
     "Feed":"Sea",
     "Type":"High Rejection",
-    "Flux":"15/800",
+    "Flux (GFD/psi)":"15/800",
     "MWCO":"RO",
     "Rejection":"99.50% NaCl"
   },
@@ -82,7 +82,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Reactive Si Removal",
-    "Flux":"26/225",
+    "Flux (GFD/psi)":"26/225",
     "MWCO":"RO",
     "Rejection":"99.50% NaCl"
   },
@@ -93,7 +93,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Tight",
-    "Flux":"25/225",
+    "Flux (GFD/psi)":"25/225",
     "MWCO":"RO",
     "Rejection":"99.50% NaCl"
   },
@@ -104,7 +104,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Standard",
-    "Flux":"30/225",
+    "Flux (GFD/psi)":"30/225",
     "MWCO":"RO",
     "Rejection":"99.50% NaCl"
   },
@@ -115,7 +115,7 @@
     "Polymer":"Polyamide-urea",
     "Feed":"Industrial, Wastewater",
     "Type":"Fouling Resistant",
-    "Flux":"30/225",
+    "Flux (GFD/psi)":"30/225",
     "MWCO":"RO",
     "Rejection":"99.50% NaCl"
   },
@@ -126,7 +126,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Extra Low Pressure",
-    "Flux":"29.5/109",
+    "Flux (GFD/psi)":"29.5/109",
     "MWCO":"RO",
     "Rejection":"99.40% NaCl"
   },
@@ -137,7 +137,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Low Pressure",
-    "Flux":"35/225",
+    "Flux (GFD/psi)":"35/225",
     "MWCO":"RO",
     "Rejection":"99.30% NaCl"
   },
@@ -147,8 +147,8 @@
     "Model":"ACM4",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
-    "Type":"High Flux, Low Pressure",
-    "Flux":"30/150",
+    "Type":"High Flux (GFD/psi), Low Pressure",
+    "Flux (GFD/psi)":"30/150",
     "MWCO":"RO",
     "Rejection":"99.20% NaCl"
   },
@@ -159,7 +159,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Low Energy",
-    "Flux":"37-46/225",
+    "Flux (GFD/psi)":"37-46/225",
     "MWCO":"RO",
     "Rejection":"99.00% NaCl"
   },
@@ -170,7 +170,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Low Energy",
-    "Flux":"26/115",
+    "Flux (GFD/psi)":"26/115",
     "MWCO":"RO",
     "Rejection":"99.00% NaCl"
   },
@@ -181,7 +181,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Extra Low Energy",
-    "Flux":"23.3/73",
+    "Flux (GFD/psi)":"23.3/73",
     "MWCO":"RO",
     "Rejection":"99.00% NaCl"
   },
@@ -192,7 +192,7 @@
     "Polymer":"Thin Film",
     "Feed":"Industrial, Wastewater",
     "Type":"High Pressure, Cl Resistant",
-    "Flux":"22/425",
+    "Flux (GFD/psi)":"22/425",
     "MWCO":"RO",
     "Rejection":"98.90% NaCl"
   },
@@ -203,7 +203,7 @@
     "Polymer":"Polyamide",
     "Feed":"Brackish",
     "Type":"Extra Low Energy",
-    "Flux":"33-41/125",
+    "Flux (GFD/psi)":"33-41/125",
     "MWCO":"RO",
     "Rejection":"98.70% NaCl"
   },
@@ -213,8 +213,8 @@
     "Model":"ACM5",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
-    "Type":"High Flux, Low Pressure",
-    "Flux":"30/110",
+    "Type":"High Flux (GFD/psi), Low Pressure",
+    "Flux (GFD/psi)":"30/110",
     "MWCO":"RO",
     "Rejection":"98.50% NaCl"
   },
@@ -225,7 +225,7 @@
     "Polymer":"Thin Film",
     "Feed":"Industrial, Wastewater",
     "Type":"Cl Resistant",
-    "Flux":"22/225",
+    "Flux (GFD/psi)":"22/225",
     "MWCO":"RO",
     "Rejection":"98.20% NaCl"
   },
@@ -236,7 +236,7 @@
     "Polymer":"Cellulose Acetate",
     "Feed":"Brackish",
     "Type":"Cl Resistant",
-    "Flux":"23.5/420",
+    "Flux (GFD/psi)":"23.5/420",
     "MWCO":"RO",
     "Rejection":"97.00% NaCl"
   },
@@ -247,7 +247,7 @@
     "Polymer":"CA Blend",
     "Feed":"Industrial, Wastewater",
     "Type":"Cl Resistant",
-    "Flux":"30/420",
+    "Flux (GFD/psi)":"30/420",
     "MWCO":"RO",
     "Rejection":"95.00% NaCl"
   },
@@ -258,7 +258,7 @@
     "Polymer":"CA Blend",
     "Feed":"Foods, Beverages",
     "Type":"Cl Resistant",
-    "Flux":"30/225",
+    "Flux (GFD/psi)":"30/225",
     "MWCO":"150",
     "Rejection":"97/85% MgSO4/NaCl"
   },
@@ -269,7 +269,7 @@
     "Polymer":"Polyamide",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Softening",
-    "Flux":"20/110",
+    "Flux (GFD/psi)":"20/110",
     "MWCO":"150",
     "Rejection":"99/80NA90% MgSO4/NaCl"
   },
@@ -280,7 +280,7 @@
     "Polymer":"Polypiperazine-amide",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Process",
-    "Flux":"20/110",
+    "Flux (GFD/psi)":"20/110",
     "MWCO":"200",
     "Rejection":"99/40% MgSO4/NaCl"
   },
@@ -291,7 +291,7 @@
     "Polymer":"Thin Film",
     "Feed":"Industrial, Foods",
     "Type":"High Rejection",
-    "Flux":"22/100",
+    "Flux (GFD/psi)":"22/100",
     "MWCO":"150-300",
     "Rejection":"96% MgSO4"
   },
@@ -302,7 +302,7 @@
     "Polymer":"Thin Film",
     "Feed":"Industrial, Foods",
     "Type":"Low Energy, Low Pressure",
-    "Flux":"28/220",
+    "Flux (GFD/psi)":"28/220",
     "MWCO":"150-300",
     "Rejection":"98% MgSO4"
   },
@@ -313,7 +313,7 @@
     "Polymer":"Thin Film",
     "Feed":"Industrial, Wastewater",
     "Type":"Softening",
-    "Flux":"39/100",
+    "Flux (GFD/psi)":"39/100",
     "MWCO":"150-300",
     "Rejection":"98% MgSO4"
   },
@@ -324,7 +324,7 @@
     "Polymer":"Polyamide TFC",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Softening, High Rejection",
-    "Flux":"20-25/110",
+    "Flux (GFD/psi)":"20-25/110",
     "MWCO":"150-300",
     "Rejection":"99/40% MgSO4/NaCl"
   },
@@ -335,7 +335,7 @@
     "Polymer":"Polyamide",
     "Feed":"Foods, Beverages",
     "Type":"High Rejection",
-    "Flux":"26.5-39.5/130",
+    "Flux (GFD/psi)":"26.5-39.5/130",
     "MWCO":"200-400",
     "Rejection":"99% MgSO4"
   },
@@ -346,7 +346,7 @@
     "Polymer":"Polyamide",
     "Feed":"Surface, Ground",
     "Type":"Organics Removal, Softening",
-    "Flux":"72.0-98.0/130",
+    "Flux (GFD/psi)":"72.0-98.0/130",
     "MWCO":"200-400",
     "Rejection":"99.2% MgSO4"
   },
@@ -357,7 +357,7 @@
     "Polymer":"Polyamide",
     "Feed":"Industrial, Wastewater",
     "Type":"Low Energy, Low Pressure",
-    "Flux":"46.0-60.0/130",
+    "Flux (GFD/psi)":"46.0-60.0/130",
     "MWCO":"200-400",
     "Rejection":"99% MgSO4"
   },
@@ -368,7 +368,7 @@
     "Polymer":"Polyamide TFC",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Softening",
-    "Flux":"45-50/110",
+    "Flux (GFD/psi)":"45-50/110",
     "MWCO":"300-500",
     "Rejection":"97/20% MgSO4/NaCl"
   },
@@ -379,7 +379,7 @@
     "Polymer":"Polypiperazine-amide",
     "Feed":"Industrial, Foods, Wastewater",
     "Type":"Process",
-    "Flux":"35/110",
+    "Flux (GFD/psi)":"35/110",
     "MWCO":"500",
     "Rejection":"95/10% MgSO4/NaCl"
   },
@@ -390,7 +390,7 @@
     "Polymer":"Composite polymide",
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
-    "Flux":"18/400",
+    "Flux (GFD/psi)":"18/400",
     "MWCO":"1000",
     "Rejection":"NA"
   },
@@ -401,7 +401,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Antibiotics, Color Removal",
-    "Flux":"75 -80/50",
+    "Flux (GFD/psi)":"75 -80/50",
     "MWCO":"1000",
     "Rejection":"NA"
   },
@@ -412,7 +412,7 @@
     "Polymer":"Cellulose Acetate",
     "Feed":"Industrial, Wastewater",
     "Type":"Cl Resistant, Softening",
-    "Flux":"28/220",
+    "Flux (GFD/psi)":"28/220",
     "MWCO":"2000",
     "Rejection":"94% MgSO4"
   },
@@ -423,7 +423,7 @@
     "Polymer":"Thin Film",
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
-    "Flux":"20/150",
+    "Flux (GFD/psi)":"20/150",
     "MWCO":"2000",
     "Rejection":"NA"
   },
@@ -434,7 +434,7 @@
     "Polymer":"Thin Film",
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
-    "Flux":"17/75",
+    "Flux (GFD/psi)":"17/75",
     "MWCO":"3000",
     "Rejection":"NA"
   },
@@ -445,7 +445,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Antibiotics, Pharmaceutical",
-    "Flux":"110-127/50",
+    "Flux (GFD/psi)":"110-127/50",
     "MWCO":"3000",
     "Rejection":"NA"
   },
@@ -456,7 +456,7 @@
     "Polymer":"Polypiperazine-amide",
     "Feed":"Process",
     "Type":"Tight",
-    "Flux":"35/110",
+    "Flux (GFD/psi)":"35/110",
     "MWCO":"3500",
     "Rejection":"70% MgSO4"
   },
@@ -467,7 +467,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Process, Ultrapure",
     "Type":"Pre-Treatment, Post-Treatment",
-    "Flux":"90/50",
+    "Flux (GFD/psi)":"90/50",
     "MWCO":"5000",
     "Rejection":"NA"
   },
@@ -478,7 +478,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Protein, Enzyme",
-    "Flux":"120-147/50",
+    "Flux (GFD/psi)":"120-147/50",
     "MWCO":"5000",
     "Rejection":"NA"
   },
@@ -489,7 +489,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Process, Ultrapure",
     "Type":"Pre-Treatment, Post-Treatment",
-    "Flux":"85/30",
+    "Flux (GFD/psi)":"85/30",
     "MWCO":"10000",
     "Rejection":"NA"
   },
@@ -500,7 +500,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Beverage Clarification",
-    "Flux":"130-167/50",
+    "Flux (GFD/psi)":"130-167/50",
     "MWCO":"10000",
     "Rejection":"NA"
   },
@@ -511,7 +511,7 @@
     "Polymer":"PES",
     "Feed":"Process",
     "Type":"Purification, Proteins",
-    "Flux":"50/20",
+    "Flux (GFD/psi)":"50/20",
     "MWCO":"10000",
     "Rejection":"95% Cytochrome-C"
   },
@@ -522,7 +522,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Dairy, Clarification",
-    "Flux":"181-193/50",
+    "Flux (GFD/psi)":"181-193/50",
     "MWCO":"30000",
     "Rejection":"NA"
   },
@@ -533,7 +533,7 @@
     "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Alkalines",
-    "Flux":"192-207/50",
+    "Flux (GFD/psi)":"192-207/50",
     "MWCO":"30000",
     "Rejection":"NA"
   },
@@ -544,7 +544,7 @@
     "Polymer":"Ultrafilic",
     "Feed":"Oil, Water",
     "Type":"Hydrophilic",
-    "Flux":"176/20",
+    "Flux (GFD/psi)":"176/20",
     "MWCO":"50000",
     "Rejection":"NA"
   },
@@ -555,7 +555,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Brine, Protein",
-    "Flux":"200-214/50",
+    "Flux (GFD/psi)":"200-214/50",
     "MWCO":"50000",
     "Rejection":"NA"
   },
@@ -566,7 +566,7 @@
     "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Fouling Resistant",
-    "Flux":"157-168/50",
+    "Flux (GFD/psi)":"157-168/50",
     "MWCO":"70000",
     "Rejection":"NA"
   },
@@ -577,7 +577,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
-    "Flux":"162-173/30",
+    "Flux (GFD/psi)":"162-173/30",
     "MWCO":"100000",
     "Rejection":"NA"
   },
@@ -588,7 +588,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
-    "Flux":"270-289/50",
+    "Flux (GFD/psi)":"270-289/50",
     "MWCO":"100000",
     "Rejection":"NA"
   },
@@ -599,7 +599,7 @@
     "Polymer":"PES",
     "Feed":"Process",
     "Type":"Open",
-    "Flux":"100/20",
+    "Flux (GFD/psi)":"100/20",
     "MWCO":"100000",
     "Rejection":"90% Dextran"
   },
@@ -610,7 +610,7 @@
     "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Fouling Resistant",
-    "Flux":"175-186/30",
+    "Flux (GFD/psi)":"175-186/30",
     "MWCO":"200000",
     "Rejection":"NA"
   },
@@ -621,7 +621,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
-    "Flux":"181-193/30",
+    "Flux (GFD/psi)":"181-193/30",
     "MWCO":"250000",
     "Rejection":"NA"
   },
@@ -632,7 +632,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
-    "Flux":"236-252/30",
+    "Flux (GFD/psi)":"236-252/30",
     "MWCO":"300000",
     "Rejection":"NA"
   },
@@ -643,7 +643,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Anodic Paint, Microbial",
-    "Flux":"191-214/30",
+    "Flux (GFD/psi)":"191-214/30",
     "MWCO":"500000",
     "Rejection":"NA"
   },
@@ -654,7 +654,7 @@
     "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Cathodic Paint",
-    "Flux":"182-196/30",
+    "Flux (GFD/psi)":"182-196/30",
     "MWCO":"500000",
     "Rejection":"NA"
   },
@@ -665,7 +665,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial, Dairy",
     "Type":"Tight, Fat and Microbial Removal, Protein Fractionation",
-    "Flux":"233-249/30",
+    "Flux (GFD/psi)":"233-249/30",
     "MWCO":"800000",
     "Rejection":"NA"
   },
@@ -676,7 +676,7 @@
     "Polymer":"PVDF+",
     "Feed":"Industrial, Wastewater",
     "Type":"Laundry Waste",
-    "Flux":"208-232/30",
+    "Flux (GFD/psi)":"208-232/30",
     "MWCO":"800000",
     "Rejection":"NA"
   },
@@ -687,7 +687,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial, Dairy",
     "Type":"Intermediate, Fat and Microbial Removal, Protein Fractionation",
-    "Flux":"237-254/20",
+    "Flux (GFD/psi)":"237-254/20",
     "MWCO":"0.1",
     "Rejection":"NA"
   },
@@ -698,7 +698,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial, Dairy",
     "Type":"Open, Fat and Microbial Removal, Protein Fractionation",
-    "Flux":"245-280/20",
+    "Flux (GFD/psi)":"245-280/20",
     "MWCO":"0.2",
     "Rejection":"NA"
   },
@@ -709,7 +709,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial",
     "Type":"Large Organics Concentration",
-    "Flux":"50/10",
+    "Flux (GFD/psi)":"50/10",
     "MWCO":"0.2",
     "Rejection":"NA"
   },
@@ -719,8 +719,8 @@
     "Model":"NFG",
     "Polymer":"Polyamide TFC",
     "Feed":"Industrial, Foods, Wastewater",
-    "Type":"Softening, High Flux",
-    "Flux":"55-60/110",
+    "Type":"Softening, High Flux (GFD/psi)",
+    "Flux (GFD/psi)":"55-60/110",
     "MWCO":"0.2",
     "Rejection":"50/10% MgSO4/NaCl"
   },
@@ -731,7 +731,7 @@
     "Polymer":"PVDF",
     "Feed":"Industrial, Process",
     "Type":"Stream Clarification",
-    "Flux":"130/30",
+    "Flux (GFD/psi)":"130/30",
     "MWCO":"0.3",
     "Rejection":"NA"
   }]
