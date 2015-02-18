@@ -147,7 +147,7 @@
     "Model":"ACM4",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
-    "Type":"High Flux (GFD/psi), Low Pressure",
+    "Type":"High Flux, Low Pressure",
     "Flux (GFD/psi)":"30/150",
     "MWCO":"RO",
     "Rejection":"99.20% NaCl"
