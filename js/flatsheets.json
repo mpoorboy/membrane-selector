@@ -391,7 +391,7 @@
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
     "Flux (GFD/psi)":"18/400",
-    "MWCO":"1000",
+    "MWCO":"1,000",
     "Rejection":"NA"
   },
   {
@@ -402,7 +402,7 @@
     "Feed":"Industrial",
     "Type":"Antibiotics, Color Removal",
     "Flux (GFD/psi)":"75 -80/50",
-    "MWCO":"1000",
+    "MWCO":"1,000",
     "Rejection":"NA"
   },
   {
@@ -413,7 +413,7 @@
     "Feed":"Industrial, Wastewater",
     "Type":"Cl Resistant, Softening",
     "Flux (GFD/psi)":"28/220",
-    "MWCO":"2000",
+    "MWCO":"2,000",
     "Rejection":"94% MgSO4"
   },
   {
@@ -424,7 +424,7 @@
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
     "Flux (GFD/psi)":"20/150",
-    "MWCO":"2000",
+    "MWCO":"2,000",
     "Rejection":"NA"
   },
   {
@@ -435,7 +435,7 @@
     "Feed":"Surface, Chemical",
     "Type":"Pre-Treatment, Color Reduction, Purification",
     "Flux (GFD/psi)":"17/75",
-    "MWCO":"3000",
+    "MWCO":"3,000",
     "Rejection":"NA"
   },
   {
@@ -446,7 +446,7 @@
     "Feed":"Industrial",
     "Type":"Antibiotics, Pharmaceutical",
     "Flux (GFD/psi)":"110-127/50",
-    "MWCO":"3000",
+    "MWCO":"3,000",
     "Rejection":"NA"
   },
   {
@@ -457,7 +457,7 @@
     "Feed":"Process",
     "Type":"Tight",
     "Flux (GFD/psi)":"35/110",
-    "MWCO":"3500",
+    "MWCO":"3,500",
     "Rejection":"70% MgSO4"
   },
   {
@@ -468,7 +468,7 @@
     "Feed":"Process, Ultrapure",
     "Type":"Pre-Treatment, Post-Treatment",
     "Flux (GFD/psi)":"90/50",
-    "MWCO":"5000",
+    "MWCO":"5,000",
     "Rejection":"NA"
   },
   {
@@ -479,7 +479,7 @@
     "Feed":"Industrial",
     "Type":"Protein, Enzyme",
     "Flux (GFD/psi)":"120-147/50",
-    "MWCO":"5000",
+    "MWCO":"5,000",
     "Rejection":"NA"
   },
   {
@@ -490,7 +490,7 @@
     "Feed":"Process, Ultrapure",
     "Type":"Pre-Treatment, Post-Treatment",
     "Flux (GFD/psi)":"85/30",
-    "MWCO":"10000",
+    "MWCO":"10,000",
     "Rejection":"NA"
   },
   {
@@ -501,7 +501,7 @@
     "Feed":"Industrial",
     "Type":"Beverage Clarification",
     "Flux (GFD/psi)":"130-167/50",
-    "MWCO":"10000",
+    "MWCO":"10,000",
     "Rejection":"NA"
   },
   {
@@ -512,7 +512,7 @@
     "Feed":"Process",
     "Type":"Purification, Proteins",
     "Flux (GFD/psi)":"50/20",
-    "MWCO":"10000",
+    "MWCO":"10,000",
     "Rejection":"95% Cytochrome-C"
   },
   {
@@ -523,8 +523,19 @@
     "Feed":"Industrial",
     "Type":"Dairy, Clarification",
     "Flux (GFD/psi)":"181-193/50",
-    "MWCO":"30000",
-    "Rejection":"NA"
+    "MWCO":"30,000",
+    "Rejection":"30K"
+  },
+    {
+    "Process":"UF",
+    "Brand":"Synder",
+    "Model":"PZ",
+    "Polymer":"PAN",
+    "Feed":"Wastewater",
+    "Type":"Oil Removal, Enzyme Processing",
+    "Flux (GFD/psi)":"45-75/15",
+    "MWCO":"30,000",
+    "Rejection":"30K"
   },
   {
     "Process":"UF",
@@ -534,7 +545,7 @@
     "Feed":"Industrial, Wastewater",
     "Type":"Alkalines",
     "Flux (GFD/psi)":"192-207/50",
-    "MWCO":"30000",
+    "MWCO":"30,000",
     "Rejection":"NA"
   },
   {
@@ -545,7 +556,7 @@
     "Feed":"Oil, Water",
     "Type":"Hydrophilic",
     "Flux (GFD/psi)":"176/20",
-    "MWCO":"50000",
+    "MWCO":"50,000",
     "Rejection":"NA"
   },
   {
@@ -556,7 +567,7 @@
     "Feed":"Industrial",
     "Type":"Brine, Protein",
     "Flux (GFD/psi)":"200-214/50",
-    "MWCO":"50000",
+    "MWCO":"50,000",
     "Rejection":"NA"
   },
   {
@@ -567,7 +578,7 @@
     "Feed":"Industrial, Wastewater",
     "Type":"Fouling Resistant",
     "Flux (GFD/psi)":"157-168/50",
-    "MWCO":"70000",
+    "MWCO":"70,000",
     "Rejection":"NA"
   },
   {
@@ -578,7 +589,7 @@
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
     "Flux (GFD/psi)":"162-173/30",
-    "MWCO":"100000",
+    "MWCO":"100,000",
     "Rejection":"NA"
   },
   {
@@ -589,7 +600,7 @@
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
     "Flux (GFD/psi)":"270-289/50",
-    "MWCO":"100000",
+    "MWCO":"100,000",
     "Rejection":"NA"
   },
   {
@@ -603,6 +614,17 @@
     "MWCO":"100000",
     "Rejection":"90% Dextran"
   },
+      {
+    "Process":"UF",
+    "Brand":"Synder",
+    "Model":"PY",
+    "Polymer":"PAN",
+    "Feed":"Wastewater",
+    "Type":"Oil Removal, Enzyme Processing",
+    "Flux (GFD/psi)":"70-100/15",
+    "MWCO":"100,000",
+    "Rejection":"100K"
+  },
   {
     "Process":"UF",
     "Brand":"Synder",
@@ -611,7 +633,7 @@
     "Feed":"Industrial, Wastewater",
     "Type":"Fouling Resistant",
     "Flux (GFD/psi)":"175-186/30",
-    "MWCO":"200000",
+    "MWCO":"200,000",
     "Rejection":"NA"
   },
   {
@@ -622,7 +644,7 @@
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
     "Flux (GFD/psi)":"181-193/30",
-    "MWCO":"250000",
+    "MWCO":"250,000",
     "Rejection":"NA"
   },
   {
@@ -633,8 +655,19 @@
     "Feed":"Industrial",
     "Type":"Corn Wet Milling, Particle",
     "Flux (GFD/psi)":"236-252/30",
-    "MWCO":"300000",
+    "MWCO":"300,000",
     "Rejection":"NA"
+  },
+        {
+    "Process":"UF",
+    "Brand":"Synder",
+    "Model":"PX",
+    "Polymer":"PAN",
+    "Feed":"Wastewater",
+    "Type":"Oil Removal",
+    "Flux (GFD/psi)":"130-160/15",
+    "MWCO":"300,000",
+    "Rejection":"300K"
   },
   {
     "Process":"UF",
@@ -644,7 +677,7 @@
     "Feed":"Industrial",
     "Type":"Anodic Paint, Microbial",
     "Flux (GFD/psi)":"191-214/30",
-    "MWCO":"500000",
+    "MWCO":"500,000",
     "Rejection":"NA"
   },
   {
@@ -655,7 +688,7 @@
     "Feed":"Industrial, Wastewater",
     "Type":"Cathodic Paint",
     "Flux (GFD/psi)":"182-196/30",
-    "MWCO":"500000",
+    "MWCO":"500,000",
     "Rejection":"NA"
   },
   {
@@ -666,7 +699,7 @@
     "Feed":"Industrial, Dairy",
     "Type":"Tight, Fat and Microbial Removal, Protein Fractionation",
     "Flux (GFD/psi)":"233-249/30",
-    "MWCO":"800000",
+    "MWCO":"800,000",
     "Rejection":"NA"
   },
   {
@@ -677,7 +710,7 @@
     "Feed":"Industrial, Wastewater",
     "Type":"Laundry Waste",
     "Flux (GFD/psi)":"208-232/30",
-    "MWCO":"800000",
+    "MWCO":"800,000",
     "Rejection":"NA"
   },
   {
