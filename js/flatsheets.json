@@ -29,7 +29,7 @@
     "Type":"High Rejection",
     "Flux (GFD/psi)":"17-24/800",
     "MWCO":"RO",
-    "Rejection":"99.60% NaCl"
+    "Rejection":"99.6% NaCl"
   },
   {
     "Process":"RO",
@@ -40,7 +40,7 @@
     "Type":"Standard",
     "Flux (GFD/psi)":"26/255",
     "MWCO":"RO",
-    "Rejection":"99.50% NaCl"
+    "Rejection":"99.5% NaCl"
   },
   {
     "Process":"RO",
@@ -51,7 +51,7 @@
     "Type":"Fouling Resistant",
     "Flux (GFD/psi)":"26/255",
     "MWCO":"RO",
-    "Rejection":"99.50% NaCl"
+    "Rejection":"99.5% NaCl"
   },
   {
     "Process":"RO",
@@ -62,7 +62,7 @@
     "Type":"Extra Low Energy",
     "Flux (GFD/psi)":"23-29/800",
     "MWCO":"RO",
-    "Rejection":"99.50% NaCl"
+    "Rejection":"99.5% NaCl"
   },
   {
     "Process":"RO",
@@ -73,7 +73,7 @@
     "Type":"High Rejection",
     "Flux (GFD/psi)":"15/800",
     "MWCO":"RO",
-    "Rejection":"99.50% NaCl"
+    "Rejection":"99.5% NaCl"
   },
   {
     "Process":"RO",
@@ -84,7 +84,7 @@
     "Type":"Reactive Si Removal",
     "Flux (GFD/psi)":"26/225",
     "MWCO":"RO",
-    "Rejection":"99.50% NaCl"
+    "Rejection":"99.5% NaCl"
   },
   {
     "Process":"RO",
@@ -95,7 +95,7 @@
     "Type":"Tight",
     "Flux (GFD/psi)":"25/225",
     "MWCO":"RO",
-    "Rejection":"99.50% NaCl"
+    "Rejection":"99.5% NaCl"
   },
   {
     "Process":"RO",
@@ -106,7 +106,7 @@
     "Type":"Standard",
     "Flux (GFD/psi)":"30/225",
     "MWCO":"RO",
-    "Rejection":"99.50% NaCl"
+    "Rejection":"99.5% NaCl"
   },
   {
     "Process":"RO",
@@ -117,7 +117,7 @@
     "Type":"Fouling Resistant",
     "Flux (GFD/psi)":"30/225",
     "MWCO":"RO",
-    "Rejection":"99.50% NaCl"
+    "Rejection":"99.5% NaCl"
   },
   {
     "Process":"RO",
@@ -128,7 +128,7 @@
     "Type":"Extra Low Pressure",
     "Flux (GFD/psi)":"29.5/109",
     "MWCO":"RO",
-    "Rejection":"99.40% NaCl"
+    "Rejection":"99.4% NaCl"
   },
   {
     "Process":"RO",
@@ -139,7 +139,7 @@
     "Type":"Low Pressure",
     "Flux (GFD/psi)":"35/225",
     "MWCO":"RO",
-    "Rejection":"99.30% NaCl"
+    "Rejection":"99.3% NaCl"
   },
   {
     "Process":"RO",
@@ -150,7 +150,7 @@
     "Type":"High Flux, Low Pressure",
     "Flux (GFD/psi)":"30/150",
     "MWCO":"RO",
-    "Rejection":"99.20% NaCl"
+    "Rejection":"99.2% NaCl"
   },
   {
     "Process":"RO",
@@ -161,7 +161,7 @@
     "Type":"Low Energy",
     "Flux (GFD/psi)":"37-46/225",
     "MWCO":"RO",
-    "Rejection":"99.00% NaCl"
+    "Rejection":"99.0% NaCl"
   },
   {
     "Process":"RO",
@@ -172,7 +172,7 @@
     "Type":"Low Energy",
     "Flux (GFD/psi)":"26/115",
     "MWCO":"RO",
-    "Rejection":"99.00% NaCl"
+    "Rejection":"99.0% NaCl"
   },
   {
     "Process":"RO",
@@ -183,7 +183,7 @@
     "Type":"Extra Low Energy",
     "Flux (GFD/psi)":"23.3/73",
     "MWCO":"RO",
-    "Rejection":"99.00% NaCl"
+    "Rejection":"99.0% NaCl"
   },
   {
     "Process":"RO",
@@ -194,7 +194,7 @@
     "Type":"High Pressure, Cl Resistant",
     "Flux (GFD/psi)":"22/425",
     "MWCO":"RO",
-    "Rejection":"98.90% NaCl"
+    "Rejection":"98.9% NaCl"
   },
   {
     "Process":"RO",
@@ -205,7 +205,7 @@
     "Type":"Extra Low Energy",
     "Flux (GFD/psi)":"33-41/125",
     "MWCO":"RO",
-    "Rejection":"98.70% NaCl"
+    "Rejection":"98.7% NaCl"
   },
   {
     "Process":"RO",
@@ -213,10 +213,10 @@
     "Model":"ACM5",
     "Polymer":"Polyamide",
     "Feed":"Brackish",
-    "Type":"High Flux (GFD/psi), Low Pressure",
+    "Type":"High Flux, Low Pressure",
     "Flux (GFD/psi)":"30/110",
     "MWCO":"RO",
-    "Rejection":"98.50% NaCl"
+    "Rejection":"98.5% NaCl"
   },
   {
     "Process":"RO",
@@ -227,7 +227,7 @@
     "Type":"Cl Resistant",
     "Flux (GFD/psi)":"22/225",
     "MWCO":"RO",
-    "Rejection":"98.20% NaCl"
+    "Rejection":"98.2% NaCl"
   },
   {
     "Process":"RO",
@@ -238,7 +238,7 @@
     "Type":"Cl Resistant",
     "Flux (GFD/psi)":"23.5/420",
     "MWCO":"RO",
-    "Rejection":"97.00% NaCl"
+    "Rejection":"97.0% NaCl"
   },
   {
     "Process":"RO",
@@ -249,7 +249,18 @@
     "Type":"Cl Resistant",
     "Flux (GFD/psi)":"30/420",
     "MWCO":"RO",
-    "Rejection":"95.00% NaCl"
+    "Rejection":"95.0% NaCl"
+  },
+    {
+    "Process":"NF",
+    "Brand":"Synder",
+    "Model":"NFG",
+    "Polymer":"Polyamide TFC",
+    "Feed":"Industrial, Foods, Wastewater",
+    "Type":"Softening, High Flux",
+    "Flux (GFD/psi)":"55-60/110",
+    "MWCO":"0.2",
+    "Rejection":"50/10% MgSO4/NaCl"
   },
   {
     "Process":"NF",
@@ -271,7 +282,7 @@
     "Type":"Softening",
     "Flux (GFD/psi)":"20/110",
     "MWCO":"150",
-    "Rejection":"99/80NA90% MgSO4/NaCl"
+    "Rejection":"99/90% MgSO4/NaCl"
   },
   {
     "Process":"NF",
@@ -293,7 +304,7 @@
     "Type":"High Rejection",
     "Flux (GFD/psi)":"22/100",
     "MWCO":"150-300",
-    "Rejection":"96% MgSO4"
+    "Rejection":"96.0% MgSO4"
   },
   {
     "Process":"NF",
@@ -304,7 +315,7 @@
     "Type":"Low Energy, Low Pressure",
     "Flux (GFD/psi)":"28/220",
     "MWCO":"150-300",
-    "Rejection":"98% MgSO4"
+    "Rejection":"98.0% MgSO4"
   },
   {
     "Process":"NF",
@@ -315,7 +326,7 @@
     "Type":"Softening",
     "Flux (GFD/psi)":"39/100",
     "MWCO":"150-300",
-    "Rejection":"98% MgSO4"
+    "Rejection":"98.0% MgSO4"
   },
   {
     "Process":"NF",
@@ -337,7 +348,7 @@
     "Type":"High Rejection",
     "Flux (GFD/psi)":"26.5-39.5/130",
     "MWCO":"200-400",
-    "Rejection":"99% MgSO4"
+    "Rejection":"99.0% MgSO4"
   },
   {
     "Process":"NF",
@@ -359,7 +370,7 @@
     "Type":"Low Energy, Low Pressure",
     "Flux (GFD/psi)":"46.0-60.0/130",
     "MWCO":"200-400",
-    "Rejection":"99% MgSO4"
+    "Rejection":"99.0% MgSO4"
   },
   {
     "Process":"NF",
@@ -401,7 +412,7 @@
     "Polymer":"Polyethersulfone",
     "Feed":"Industrial",
     "Type":"Antibiotics, Color Removal",
-    "Flux (GFD/psi)":"75 -80/50",
+    "Flux (GFD/psi)":"75-80/50",
     "MWCO":"1,000",
     "Rejection":"1K"
   },
@@ -414,7 +425,7 @@
     "Type":"Cl Resistant, Softening",
     "Flux (GFD/psi)":"28/220",
     "MWCO":"2,000",
-    "Rejection":"94% MgSO4"
+    "Rejection":"94.0% MgSO4"
   },
   {
     "Process":"UF",
@@ -458,7 +469,7 @@
     "Type":"Tight",
     "Flux (GFD/psi)":"35/110",
     "MWCO":"3,500",
-    "Rejection":"70% MgSO4"
+    "Rejection":"70.0% MgSO4"
   },
   {
     "Process":"UF",
@@ -513,7 +524,7 @@
     "Type":"Purification, Proteins",
     "Flux (GFD/psi)":"50/20",
     "MWCO":"10,000",
-    "Rejection":"95% Cytochrome-C"
+    "Rejection":"95.0% Cytochrome-C"
   },
   {
     "Process":"UF",
@@ -612,7 +623,7 @@
     "Type":"Open",
     "Flux (GFD/psi)":"100/20",
     "MWCO":"100000",
-    "Rejection":"90% Dextran"
+    "Rejection":"90.0% Dextran"
   },
       {
     "Process":"UF",
@@ -708,7 +719,7 @@
     "Model":"FR",
     "Polymer":"PVDF",
     "Feed":"Industrial, Dairy",
-    "Type":"Tight, Fat and Microbial Removal, Protein Fractionation",
+    "Type":"Tight, Fat/Microbial Removal, Protein Fractionation",
     "Flux (GFD/psi)":"233-249/30",
     "MWCO":"800,000",
     "Rejection":"800K"
@@ -756,17 +767,6 @@
     "Flux (GFD/psi)":"50/10",
     "MWCO":"0.2",
     "Rejection":"NA"
-  },
-  {
-    "Process":"NF",
-    "Brand":"Synder",
-    "Model":"NFG",
-    "Polymer":"Polyamide TFC",
-    "Feed":"Industrial, Foods, Wastewater",
-    "Type":"Softening, High Flux (GFD/psi)",
-    "Flux (GFD/psi)":"55-60/110",
-    "MWCO":"0.2",
-    "Rejection":"50/10% MgSO4/NaCl"
   },
   {
     "Process":"MF",
